@@ -1,5 +1,5 @@
 #!/bin/bash
 #SBATCH -p gnu
-#SBATCH -c 4
-export OMP_NUM_THREADS=4
+#SBATCH -c 8
+export OMP_NUM_THREADS=8
 ./a.out
