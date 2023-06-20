@@ -1,2 +1,14 @@
 # High-performance-computer-systems
- High-performance computer systems
+Федорова Анастасия 20.Б11-пу \
+
+**openMP/task0** \
+Сравнение производительности примера с занятия(сложение элементов массива): Последовательно; atomic; reduction.
+
+**openMP/task12** \
+Вычисление PI + исследование масшитабируемости на примере вычисления PI.
+
+**openMP/task3** \
+Перемножение матриц.
+
+**openMP/task4** \
+Сортировка массива (MergeSort).
