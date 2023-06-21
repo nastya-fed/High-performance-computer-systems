@@ -13,4 +13,13 @@
 **openMP/task4** \
 Сортировка массива (MergeSort).
 
-**linpack** \
+**linpack** 
+
+**MPI-task_pi** \
+Вычисление PI MPI.
+
+**MPI/task_matrix_mult** \
+Перемножение матриц MPI.
+
+**MPI/task_mergeSort** \
+Сортировка массива MPI(MergeSort).
