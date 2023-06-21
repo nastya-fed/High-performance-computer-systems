@@ -18,8 +18,8 @@
 **MPI-task_pi** \
 Вычисление PI MPI.
 
-**MPI/task_matrix_mult** \
+**MPI_task_matrix_mult** \
 Перемножение матриц MPI.
 
-**MPI/task_mergeSort** \
+**MPI_task_mergeSort** \
 Сортировка массива MPI(MergeSort).
