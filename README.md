@@ -12,3 +12,5 @@
 
 **openMP/task4** \
 Сортировка массива (MergeSort).
+
+**linpack** \
